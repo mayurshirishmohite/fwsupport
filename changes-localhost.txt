@@ -1,0 +1,8 @@
+Changes log for LocalHost
+
+Image + style.css  :  header.php
+image : footer.php
+Image path : style.css
+Form URL : search.php
+Breadcrums.php
+search.php
